@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "[Why Not] Day to Day",
+        "description": "A better total days played counter.",
+        "uuid": "0c784843-6f0a-4ffa-b226-fc3d40f3a113",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 26, 20]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "618c1906-beb0-4d32-aab5-4fc0fad7eb8b",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "authors": ["daniswastaken"],
+        "product_type": "addon"
+    },
+    "capabilities": [
+        "pbr"
+    ],
+    "dependencies": [
+        {
+            "uuid": "64d87b9d-a5a6-4008-a4c3-0cff51358b97",
+            "version": [1, 0, 0]
+        }
+    ]
+}

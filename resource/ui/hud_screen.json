@@ -1,0 +1,12 @@
+{
+    "namespace": "hud",
+    "anim_actionbar_text_background_alpha_out": {
+        "anim_type": "alpha",
+        "easing": "in_expo",
+        "duration": 3,
+        "from": 0.0,
+        "to": 0.0,
+        "destroy_at_end": "hud_actionbar_text",
+        "end_event": "hud_actionbar_text_complete"
+    }
+}
